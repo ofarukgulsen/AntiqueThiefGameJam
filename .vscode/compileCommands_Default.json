@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThief.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThief.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThief.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThiefCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThiefCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThiefGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThiefGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThiefProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\AntiqueThiefProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\Source\\AntiqueThief\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\semih\\Documents\\Unreal Projects\\AntiqueThief\\.vscode\\compileCommands_Default\\AntiqueThief.261.rsp"
+		],
+		"directory": "C:\\UnrealEngine\\UE_5.2\\Engine\\Source"
+	}
+]
