@@ -69,6 +69,7 @@ void AAntiqueThiefCharacter::SetupPlayerInputComponent(class UInputComponent* Pl
 
 		//Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &AAntiqueThiefCharacter::Look);
+		
 	}
 }
 
